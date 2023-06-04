@@ -1,4 +1,4 @@
-# Pandas-Turtle-Geo-Quiz
+# Pandas--Geo-Quiz
 
 The Pandas-Turtle-Geo-Quiz is a Python application that challenges your knowledge of the 50 states in the United States. Test your geography skills by guessing the names of the states and see how many you can correctly identify!
 
